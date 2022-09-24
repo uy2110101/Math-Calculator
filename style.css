@@ -1,0 +1,16 @@
+
+.button{
+    padding: 20px 0px;
+    border: 3px solid black;
+    border-radius: 20px;
+    cursor: pointer;
+    width: 62px;
+}
+.row-input{
+    margin: 0;
+    padding: 0;
+}
+
+.remarks{
+    padding-top: 50px;
+}
